@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(banka main.cpp
         bank.h
-        bank.cpp)
+        bank.cpp
+        user.h
+        user.cpp)

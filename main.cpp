@@ -1,4 +1,6 @@
 #include <iostream>
+#include "bank.h"
+#include "user.h"
 
 // Banking system
 
@@ -15,10 +17,10 @@
     account balances needs to be up to date
 */
 
-
-
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    std::cout << "Welcome to the Bank-A!" << std::endl;
+    auto bank = Bank("Chase");
+    bank.addUser("John");
+    bank.getAllUsers();
 }

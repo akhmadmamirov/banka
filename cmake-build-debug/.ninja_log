@@ -1,0 +1,6 @@
+# ninja log v6
+1	635	1741105332140272746	CMakeFiles/banka.dir/main.cpp.o	c0e0eeffe08c7bbf
+637	680	1741105332776087543	banka	eafcbad7385f167c
+9	235	1741114702886314482	CMakeFiles/banka.dir/bank.cpp.o	4177764214765d84
+9	780	1741114702885997322	CMakeFiles/banka.dir/main.cpp.o	c0e0eeffe08c7bbf
+780	950	1741114703657665207	banka	e8b777fe2df0fbf

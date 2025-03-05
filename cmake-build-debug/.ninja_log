@@ -1,0 +1,7 @@
+# ninja log v6
+0	621	1741188421300308156	CMakeFiles/banking_system.dir/main.cpp.o	f31c0975235e21e
+1	690	1741188421300741223	CMakeFiles/banking_system.dir/bank.cpp.o	f5b2dc73f7597d78
+5	602	1741188478863419056	CMakeFiles/banking_system.dir/user.cpp.o	ed9ca3df257d86f7
+4	620	1741188478863115276	CMakeFiles/banking_system.dir/main.cpp.o	f31c0975235e21e
+5	701	1741188478863543218	CMakeFiles/banking_system.dir/bank.cpp.o	f5b2dc73f7597d78
+701	829	1741188479559546201	banking_system	eda6f798322e4e8b
